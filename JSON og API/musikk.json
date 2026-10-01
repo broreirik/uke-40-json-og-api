@@ -1,0 +1,24 @@
+{
+    "artister": [
+        {
+            "navn": "The Beatles",
+            "sjanger": "Rock",
+            "land": "Storbritannia",
+            "grammy-priser": "8"
+        },
+        {
+            "navn": "Beyoncé",
+            "sjanger": "Pop",
+            "land": "USA",
+            "grammy-priser":"35"
+        },
+        {
+            "navn": "Bob Marley",
+            "sjanger": "Reggae",
+            "land": "Jamaica",
+            "grammy-priser": "2"
+        }
+    ]
+
+
+}
