@@ -1,3 +1,14 @@
+# Hva har jeg gjort?
+- Jeg har laget en egen JSON fil som kan brukes av JavaScript eller python koder.
+
+- Jeg har laget mange forskjellige programmer som leser fra JSON filer og en som bruker API
+
+- Jeg forstår nå hvordan JSON og API fungerer og hvordan det kan bli brukt effektivt til å hente informasjon ved hjelp av andre fil typer
+
+
+
+
+
 # Refleksjon
 
 ## Hva er JSON?
